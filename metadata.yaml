@@ -1,0 +1,35 @@
+_repo: A-handbook-of-library-appliances-The-technical-equipment-of-libraries-fittings-furniture-char__68130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, James D.
+    gutenberg_agent_id: '54620'
+    url: http://www.gutenberg.org/2009/agents/54620
+  editors:
+  - agent_name: Mason, Thomas
+    gutenberg_agent_id: '54622'
+    url: http://www.gutenberg.org/2009/agents/54622
+  - agent_name: MacAlister, J. Y. W.
+    gutenberg_agent_id: '54621'
+    url: http://www.gutenberg.org/2009/agents/54621
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68130'
+language: en
+pgterms:marc904: https://archive.org/details/handbookoflibrar00browuoft/page/n7/mode/2up
+pgterms:marc905: 20210328150435brown
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :David Stott,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A handbook of library appliances: The technical equipment of libraries: fittings,
+  furniture, charging systems, forms, recipes, etc.'
+url: http://www.gutenberg.org/ebooks/68130
