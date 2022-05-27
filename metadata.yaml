@@ -1,5 +1,8 @@
 _repo: A-handbook-of-library-appliances-The-technical-equipment-of-libraries-fittings-furniture-char__68130
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68130-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, James D.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '54621'
     url: http://www.gutenberg.org/2009/agents/54621
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68130#A-handbook-of-library-appliances-The-technical-equipment-of-libraries-fittings-furniture-char_
 gutenberg_issued: '2022-05-19'
 identifiers:
   gutenberg: '68130'
